@@ -6,5 +6,3 @@ $b = "Hi this is Laxmi";
 echo $a;
 echo "<br>";
 echo $b;
-
-?>
